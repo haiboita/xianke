@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xk-common" />
+        <module name="xk-demo-interface" />
+        <module name="xk-demo-service" />
+        <module name="xk-gateway" />
+        <module name="xk-new-interface" />
+        <module name="xk-new-service" />
+        <module name="xk-registry" />
+        <module name="xk-user-interface" />
+        <module name="xk-user-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pro" options="-parameters" />
+      <module name="xk-common" options="-parameters" />
+      <module name="xk-demo" options="-parameters" />
+      <module name="xk-demo-interface" options="-parameters" />
+      <module name="xk-demo-service" options="-parameters" />
+      <module name="xk-gateway" options="-parameters" />
+      <module name="xk-new" options="-parameters" />
+      <module name="xk-new-interface" options="-parameters" />
+      <module name="xk-new-service" options="-parameters" />
+      <module name="xk-registry" options="-parameters" />
+      <module name="xk-user" options="-parameters" />
+      <module name="xk-user-interface" options="-parameters" />
+      <module name="xk-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

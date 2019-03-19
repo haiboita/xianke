@@ -1,0 +1,15 @@
+2019-03-15 13:23:26,824 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter -[LoggingFailureAnalysisReporter.java:42]- 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userMapper in com.xianke.user.service.impl.UserServiceImpl required a bean of type 'com.xianke.user.mapper.UserMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xianke.user.mapper.UserMapper' in your configuration.
+

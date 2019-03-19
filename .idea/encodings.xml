@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-demo/xk-demo-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-demo/xk-demo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-new" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-new/xk-new-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-new/xk-new-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-user/xk-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xk-user/xk-user-service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
