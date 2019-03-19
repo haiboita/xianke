@@ -14,6 +14,7 @@
         <module>xk-demo</module>
         <module>xk-user</module>
         <module>xk-new</module>
+        <module>xk-upload</module>
     </modules>
     <packaging>pom</packaging>
 

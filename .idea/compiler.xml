@@ -14,6 +14,7 @@
         <module name="xk-new-interface" />
         <module name="xk-new-service" />
         <module name="xk-registry" />
+        <module name="xk-upload" />
         <module name="xk-user-interface" />
         <module name="xk-user-service" />
       </profile>
@@ -31,6 +32,7 @@
       <module name="xk-new-interface" options="-parameters" />
       <module name="xk-new-service" options="-parameters" />
       <module name="xk-registry" options="-parameters" />
+      <module name="xk-upload" options="-parameters" />
       <module name="xk-user" options="-parameters" />
       <module name="xk-user-interface" options="-parameters" />
       <module name="xk-user-service" options="-parameters" />

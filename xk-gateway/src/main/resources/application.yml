@@ -12,11 +12,15 @@ eureka:
     prefer-ip-address: true
     ip-address: 127.0.0.1
 zuul:
-  prefix: /api
+  prefix: /api  #添加统一前缀
   routes:
     demo-service: /demo/**
     user-service: /user/**
     new-service: /new/**
+    upload-service:
+      path: /upload/**
+      service: upload-service
+      strip-prefix: false
 
 hystrix:
   command:
