@@ -10,6 +10,8 @@
         <module name="xk-common" />
         <module name="xk-demo-interface" />
         <module name="xk-demo-service" />
+        <module name="xk-finance-interface" />
+        <module name="xk-finance-service" />
         <module name="xk-gateway" />
         <module name="xk-new-interface" />
         <module name="xk-new-service" />
@@ -27,6 +29,9 @@
       <module name="xk-demo" options="-parameters" />
       <module name="xk-demo-interface" options="-parameters" />
       <module name="xk-demo-service" options="-parameters" />
+      <module name="xk-finance" options="-parameters" />
+      <module name="xk-finance-interface" options="-parameters" />
+      <module name="xk-finance-service" options="-parameters" />
       <module name="xk-gateway" options="-parameters" />
       <module name="xk-new" options="-parameters" />
       <module name="xk-new-interface" options="-parameters" />

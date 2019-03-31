@@ -6,7 +6,6 @@ import com.xianke.common.enums.ExceptionEnum;
 import com.xianke.common.exception.XkException;
 import com.xianke.common.vo.PageResult;
 import com.xianke.news.pojo.News;
-import com.xianke.news.pojo.User;
 import com.xianke.news.service.mapper.NewsMapper;
 import com.xianke.news.service.mapper.UserMapper;
 import com.xianke.news.service.service.NewsService;

@@ -1,5 +1,5 @@
 server:
-  port: 8085
+  port: 8087
 eureka:
   client:
     service-url:
@@ -9,8 +9,8 @@ eureka:
     ip-address: 127.0.0.1
 spring:
   application:
-    name: user-service
+    name: finance-service
   datasource:
-    url: jdbc:mysql://localhost:3306/xk_data?useUnicode=true&characterEncoding=utf-8
+    url: jdbc:mysql://localhost:3306/yun6?useUnicode=true&characterEncoding=utf-8
     username: root
     password: 123

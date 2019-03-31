@@ -3,22 +3,19 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>xk-user</artifactId>
-        <groupId>com.xianke.service</groupId>
+        <artifactId>xianke</artifactId>
+        <groupId>com.xianke.parent</groupId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.xianke.service</groupId>
-    <artifactId>xk-user-interface</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-annotations</artifactId>
-            <version>2.9.0</version>
-            <scope>compile</scope>
-        </dependency>
+    <artifactId>xk-finance</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>xk-finance-interface</module>
+        <module>xk-finance-service</module>
+    </modules>
 
-    </dependencies>
 
 </project>

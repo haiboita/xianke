@@ -17,6 +17,7 @@ zuul:
     demo-service: /demo/**
     user-service: /user/**
     new-service: /new/**
+    finance-service: /finance/**
     upload-service:
       path: /upload/**
       service: upload-service
